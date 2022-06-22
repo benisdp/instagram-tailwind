@@ -214,8 +214,8 @@ function HomePage() {
                       marginBottom={0}
                     >
                       <h5>
-                        Your are currently using the free version. Upgrade to
-                        Pro so you can tag photos with products!
+                        You are currently using the free version. Upgrade to Pro
+                        so you can tag photos with products!
                       </h5>
                     </Grid>
                     <Grid
